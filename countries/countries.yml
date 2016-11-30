@@ -1,0 +1,31 @@
+---
+Thailand:
+  sea: 'True'
+  schengen: 'False'
+  average_temperature: 30
+  currency_rate: 1.8
+Hungry:
+  sea: 'False'
+  schengen: 'True'
+  average_temperature: 10
+  currency_rate: 0.3
+Germany:
+  sea: 'True'
+  schengen: 'True'
+  average_temperature: 5
+  currency_rate: 80
+Japan:
+  sea: 'True'
+  schengen: 'False'
+  average_temperature: 15
+  currency_rate: 0.61
+India:
+  sea: 'True'
+  schengen: 'False'
+  average_temperature: 25
+  currency_rate: 1.02
+France:
+  sea: 'True'
+  schengen: 'True'
+  average_temperature: 19
+  currency_rate: 80

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <country>
+    <name>Thailand</name>
+    <sea>True</sea>
+    <schengen>False</schengen>
+    <average_temperature>30</average_temperature>
+    <currency_rate>1.8</currency_rate>
+  </country>
+  <country>
+    <name>Hungry</name>
+    <sea>False</sea>
+    <schengen>True</schengen>
+    <average_temperature>10</average_temperature>
+    <currency_rate>0.3</currency_rate>
+  </country>
+  <country>
+    <name>Germany</name>
+    <sea>True</sea>
+    <schengen>True</schengen>
+    <average_temperature>5</average_temperature>
+    <currency_rate>80</currency_rate>
+  </country>
+  <country>
+    <name>Japan</name>
+    <sea>True</sea>
+    <schengen>False</schengen>
+    <average_temperature>15</average_temperature>
+    <currency_rate>0.61</currency_rate>
+  </country>
+  <country>
+    <name>India</name>
+    <sea>True</sea>
+    <schengen>False</schengen>
+    <average_temperature>25</average_temperature>
+    <currency_rate>1.02</currency_rate>
+  </country>
+  <country>
+    <name>France</name>
+    <sea>True</sea>
+    <schengen>True</schengen>
+    <average_temperature>19</average_temperature>
+    <currency_rate>80</currency_rate>
+  </country>
+</root>
