@@ -27,4 +27,4 @@ with Profiler() as p:
     files = glob.glob(os.path.join(source, "*.jpg"))
 
     for file in files:
-        subprocess.run(['sips', '--resampleWidth', '200', file])
+        subprocess.run(['sips', '--resampleWidth', '200', file, '--out', 'Result'])

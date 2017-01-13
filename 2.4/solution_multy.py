@@ -20,7 +20,7 @@ files = glob.glob(os.path.join(source, "*.jpg"))
 
 
 def call_sips(file_name):
-    subprocess.run(['sips', '--resampleWidth', '200', file_name])
+    subprocess.run(['sips', '--resampleWidth', '200', file_name, '--out', 'Result'])
 
 
 # Make the Pool of workers
